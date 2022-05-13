@@ -1,0 +1,18 @@
+{
+"companyName": "Deepak",
+"productName": "Car VS Cops",
+"productVersion": "0.1",
+"dataUrl": "Builds.data.unityweb",
+"asmCodeUrl": "Builds.asm.code.unityweb",
+"asmMemoryUrl": "Builds.asm.memory.unityweb",
+"asmFrameworkUrl": "Builds.asm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.4.38f1"
+}
